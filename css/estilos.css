@@ -1,0 +1,62 @@
+
+h1 {
+    font-family: 'Courier New', monospace;
+    font-size: 50px;
+}
+
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    font-family: 'Open Sans', monospace;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+footer {
+    background: #222;
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+
+#mardelplata {
+    font-family: 'Germania One', cursive;
+    font-size: 200px;
+    background-color: aqua;
+}
+
+#miromar {
+    font-family: 'Chango', cursive;
+    font-size: 100px;
+    background-color: skyblue;
+    text-align: center;
+}
+
